@@ -1,0 +1,9 @@
+[deps]
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+Plotly = "58dd65bb-95f3-509e-9936-c39a10fdeae7"
+SIAN = "cf7bdac0-b945-4905-b5ad-bc3f1a757483"
+StructuralIdentifiability = "220ca800-aa68-49bb-acd8-6037fa93a544"
+
+[extras]
+CPUSummary = "2a0fbf3d-bb9c-48f3-b0a9-814d99fd7ab9"

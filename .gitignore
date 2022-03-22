@@ -494,3 +494,4 @@ cython_debug/
 # End of https://www.toptal.com/developers/gitignore/api/julia,latex,python
 
 .vscode
+*.sty
